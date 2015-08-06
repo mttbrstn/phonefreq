@@ -11,7 +11,6 @@ access.
 
 Version 1.0
 Matt Burstein
-mttbrstn@gmail.com
 
 """
 import re
