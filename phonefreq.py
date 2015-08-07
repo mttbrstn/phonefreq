@@ -5,9 +5,9 @@ phonedatamine.py:
 A python script for determining the most frequently accessed numbers in
 AT&T mobile service exported csv files.
 
-Run the file from your *nix command line with the csv as your argument,
-and the script will return a list of phone numbers and frequency of
-access.
+Run the file from your *nix command line with the csv data files as
+your argument, and the script will return a list of phone numbers and
+frequency of access.
 
 Version 1.0
 Matt Burstein
